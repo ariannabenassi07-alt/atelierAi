@@ -1,0 +1,6 @@
+{
+  "name": "AtelierAI",
+  "description": "Atelier digitale di alta moda con guardaroba intelligente, consulente di stile AI e avatar su misura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
